@@ -37,7 +37,6 @@ public class Test {
         ProductNdxpro rd = new ProductNdxpro("D", "R&D", "type", "detailLabel", 0);
 
 
-
     }
 
-    }}
+    }
