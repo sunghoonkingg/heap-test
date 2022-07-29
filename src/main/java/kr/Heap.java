@@ -1,6 +1,6 @@
+package kr;
+
 import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
 import java.util.PriorityQueue;
 
 public class Heap {
@@ -29,6 +29,8 @@ public class Heap {
             System.out.println(val);
 
         }
+        Heap h1 = new Heap();
+
 }
 
 // 힙으로
